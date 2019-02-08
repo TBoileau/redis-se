@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Thomas Boileau",
+    "email": "t-boileau@email.com"
+  },
+  "dependencies": {
+    "async": "^2.1.2",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "js-yaml": "^3.6.1",
+    "moment": "^2.16.0",
+    "multisort": "^0.5.3",
+    "node-sqlparser": "^1.0.2",
+    "redis": "^2.6.2",
+    "socket.io": "^1.5.1",
+    "underscore": "^1.8.3",
+    "uniqid": "^4.1.0"
+  },
+  "deprecated": false,
+  "description": "redis-se.js is a storage engine for Redis implemented with node.js. It provide a structured query language to manipulate databases. Redis is a NoSQL database based on Key/Value system, but with redis-se.js, it's possible to structured databases like relational database management system (MySQL & co). This storage engine has been made for manage a lot of structured data. The purpose is the best scalability possible.",
+  "engines": {
+    "node": "v6.9.x"
+  },
+  "keywords": [
+    "redis",
+    "nosql",
+    "sql"
+  ],
+  "name": "redis-se.js",
+  "version": "0.1.5-rc"
+}
